@@ -1,0 +1,9 @@
+{
+    "policyId": "b4246ffa0e74a3fb1add5419afa60b2e45b4cc4ab61fb5f12d0aa3b2",
+    "name": "SWELL", 
+    "symbol": "$SWELL", 
+    "website": "https://swelltoken.com/", 
+    "description": "SWELL Token - the Cardano Community Token. Fast growing MEME Cardano MEME Coin. Decentralized, independent & almost infinitely available.",
+    "totalSupply": 1000000000000000000,
+    "amounts": [1000000,20000000, 50000000, 100000000, 200000000, 1000000000, 10000000000, 100000000000, 1000000000000, 1000000000000, 10000000000000]
+}
